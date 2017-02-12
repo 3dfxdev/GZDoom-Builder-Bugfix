@@ -118,10 +118,10 @@ namespace CodeImp.DoomBuilder
 		//internal const int SIF_ALL = SIF_RANGE + SIF_PAGE + SIF_POS + SIF_TRACKPOS;
 		
 		// Files and Folders
-		private const string SETTINGS_FILE = "GZBuilder.cfg";
-		private const string DEFAULT_SETTINGS_FILE = "GZBuilder.default.cfg"; //mxd
+		private const string SETTINGS_FILE = "3DGEBuilder.cfg";
+		private const string DEFAULT_SETTINGS_FILE = "3DGEBuilder.default.cfg"; //mxd
 		private const string SETTINGS_DIR = "Doom Builder";
-		private const string LOG_FILE = "GZBuilder.log";
+		private const string LOG_FILE = "3DGEBuilder.log";
 		private const string GAME_CONFIGS_DIR = "Configurations";
 		private const string COMPILERS_DIR = "Compilers";
 		private const string PLUGINS_DIR = "Plugins";

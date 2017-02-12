@@ -6,12 +6,12 @@ using CodeImp.DoomBuilder;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("GZDoom Builder (Bugfix)")]
-[assembly: AssemblyDescription("ZDoom, GZDoom and Zandronum map editor (can be used for Vanilla/Boom mapping too!)")]
+[assembly: AssemblyTitle("3DGE Builder (Bugfix)")]
+[assembly: AssemblyDescription("3DGE map editor (can be used for Vanilla/Boom mapping too!)")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("CodeImp, MaxED")]
-[assembly: AssemblyProduct("GZDoom Builder (Bugfix)")]
-[assembly: AssemblyCopyright("Copyright © 2007, 2016")]
+[assembly: AssemblyCompany("CodeImp, MaxED, ZZYZX, Coraline")]
+[assembly: AssemblyProduct("3DGE Builder (Bugfix)")]
+[assembly: AssemblyCopyright("Copyright © 2007, 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
